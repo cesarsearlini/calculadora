@@ -1,0 +1,109 @@
+.logo { 
+    -fx-background-image: url('../images/logo.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button100Reais { 
+    -fx-background-image: url('../images/bt-100reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button50Reais { 
+    -fx-background-image: url('../images/bt-50reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button20Reais { 
+    -fx-background-image: url('../images/bt-20reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button10Reais { 
+    -fx-background-image: url('../images/bt-10reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button5Reais { 
+    -fx-background-image: url('../images/bt-5reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button2Reais { 
+    -fx-background-image: url('../images/bt-2reais.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button1Real { 
+    -fx-background-image: url('../images/bt-1real.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button50Centavos { 
+    -fx-background-image: url('../images/bt-50centavos.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button25Centavos { 
+    -fx-background-image: url('../images/bt-25centavos.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button10Centavos { 
+    -fx-background-image: url('../images/bt-10centavos.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button5Centavos { 
+    -fx-background-image: url('../images/bt-5centavos.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button1Centavo { 
+    -fx-background-image: url('../images/bt-1centavo.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.trash { 
+    -fx-background-image: url('../images/trash.png');
+    -fx-background-size: 100%;
+    -fx-background-position: center;
+    -fx-background-repeat: no-repeat;
+}
+
+.button-with-margin {
+    -fx-padding: 50;   
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 2;
+    -fx-background-radius: 0;
+    -fx-background-color: #1d1d1d;
+    -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #d8d8d8;
+    -fx-background-insets: 0 0 0 0, 0, 5, 5;
+}
